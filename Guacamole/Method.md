@@ -1,1 +1,3 @@
-Method
+Methods
+
+Chop the avocado
